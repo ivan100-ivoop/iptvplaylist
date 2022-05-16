@@ -2,5 +2,5 @@
 #EXT-X-TARGETDURATION:13
 #EXT-X-STREAM-INF:CODECS="mp4a.40.2,avc1.4d401e", BANDWIDTH=1000
 #EXTINF:13.0,
-http://78.83.191.18:8000/play/a04i?checkedby:iptvcat.com
+http://78.83.191.18:8000/play/a04i
 #EXT-X-ENDLIST
