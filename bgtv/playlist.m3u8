@@ -1,98 +1,98 @@
 #EXTM3U
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",7/8 TV
-http://78.83.191.18:8000/play/a05p?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a05p
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",AXN
-http://78.83.191.18:8000/play/a04d?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a04d
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",AXN Black
-http://78.83.191.18:8000/play/a066?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a066
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",AXN White
-http://78.83.191.18:8000/play/a065?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a065
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Action+
-http://78.83.191.18:8000/play/a070?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a070 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Animal Planet
-http://78.83.191.18:8000/play/a05r?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a05r 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="News",BBC World News
-http://78.83.191.18:8000/play/a07a?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a07a 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 1
-http://78.83.191.18:8000/play/a046?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a046 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 2
-http://78.83.191.18:8000/play/a049?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a049 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 3
-http://78.83.191.18:8000/play/a03x?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a03x 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",BNT 4
-http://78.83.191.18:8000/play/a04u?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a04u 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Balkanika
-http://78.83.191.18:8000/play/a05h?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a05h 
 #EXTINF:0 tvg-country="BG" tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="Music",Balkanika Music TV
-rtsp://stream.teracomm.bg/balkanika?checkedby:iptvcat.net
+rtsp://stream.teracomm.bg/balkanika 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Boomerang
-http://78.83.191.18:8000/play/a03o?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a03o 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Bulgaria 24
-http://78.83.191.18:8000/play/a06b?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a06b 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Bulgaria on Air
-http://78.83.191.18:8000/play/a05x?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a05x 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",CNN
-http://78.83.191.18:8000/play/a07c?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a07c 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Cartoon Network
-http://78.83.191.18:8000/play/a05a?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a05a 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",City TV
-http://78.83.191.18:8000/play/a06c?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a06c 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Comedy+
-http://78.83.191.18:8000/play/a06w?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a06w 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Crime & Investigations
-http://78.83.191.18:8000/play/a03p?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a03p 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",DM Sat
-http://78.83.191.18:8000/play/a06x?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a06x 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",DW
-http://78.83.191.18:8000/play/a07b?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a07b 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",DaVinci Learning
-http://78.83.191.18:8000/play/a03q?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a03q 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Diema
-http://78.83.191.18:8000/play/a045?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a045 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Diema Family
-http://78.83.191.18:8000/play/a047?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a047 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Diema Sport 2 HD
-http://78.83.191.18:8000/play/a077?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a077 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Discovery Channel
-http://78.83.191.18:8000/play/a044?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a044 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Discovery Science
-http://78.83.191.18:8000/play/a04z?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a04z 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Disney Channel
-http://78.83.191.18:8000/play/a059?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a059 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Disney Junior
-http://78.83.191.18:8000/play/a05m?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a05m 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Docubox
-http://78.83.191.18:8000/play/a05n?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a05n 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Kids",Ekids
-http://78.83.191.18:8000/play/a06d?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a06d 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Epic Drama
-http://78.83.191.18:8000/play/a055?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a055 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Eurosport
-http://78.83.191.18:8000/play/a05y?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a05y 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Eurosport 2
-http://78.83.191.18:8000/play/a04b?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a04b 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Evrokom
-http://78.83.191.18:8000/play/a053?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a053 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",F Plus
-http://78.83.191.18:8000/play/a03z?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a03z 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",FEN TV
-http://78.83.191.18:8000/play/a05f?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a05f 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",FILMBOX
-http://78.83.191.18:8000/play/a06i?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a06i 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",FOX
-http://78.83.191.18:8000/play/a05c?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a05c 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",FOX Crime
-http://78.83.191.18:8000/play/a04h?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a04h 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",FOX Life
-http://78.83.191.18:8000/play/a04f?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a04f 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",FightBox
-http://78.83.191.18:8000/play/a05o?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a05o 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",FilmBox Plus
-http://78.83.191.18:8000/play/a04r?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a04r 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Fine Living
-http://78.83.191.18:8000/play/a04t?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a04t 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",H2
-http://78.83.191.18:8000/play/a06j?checkedby:iptvcat.net
+http://78.83.191.18:8000/play/a06j 
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",History Channel
 http://78.83.191.18:8000/play/a05u
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Hobby Lov
